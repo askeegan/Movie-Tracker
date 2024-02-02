@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Movie Catalog App is a web application designed to showcase a list of movies. Users can filter movies by genre, search for specific titles, and load more movies to explore.
+This Movie Tracking System is a web application designed to showcase a list of movies. Users can filter movies by genre, search for specific titles, and load more movies to explore.
 
 ## Design Decisions
 
